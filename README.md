@@ -4,3 +4,4 @@ bu bir örnek repositorydir. https://www.w3schools.com
 
 bu repository tutorialda adım adım yapılır. 
 deneme...
+<span style="color: red;">text</span>
