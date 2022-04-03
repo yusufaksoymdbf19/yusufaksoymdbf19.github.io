@@ -17,3 +17,7 @@ g { color: Green }
 - <r>TODO:</r> Important thing to do
 - <o>TODO:</o> Less important thing to do
 - <g>DONE:</g> Breath deeply and improve karma
+
+
+
+Roses are \textcolor{red}{red}, violets are \textcolor{blue}{blue}
